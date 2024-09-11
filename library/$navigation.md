@@ -20,3 +20,4 @@
 
 ##### 光与影之舞
 - [Chapter 1](?file=03-光与影之舞/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=03-光与影之舞/02-Chapter 2 "Chapter 2")

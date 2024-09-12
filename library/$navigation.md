@@ -22,3 +22,4 @@
 - [Chapter 1](?file=03-光与影之舞/01-Chapter 1 "Chapter 1")
 - [Chapter 2](?file=03-光与影之舞/02-Chapter 2 "Chapter 2")
 - [Chapter 3](?file=03-光与影之舞/03-Chapter 3 "Chapter 3")
+- [Chapter 4](?file=03-光与影之舞/04-Chapter 4 "Chapter 4")

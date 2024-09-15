@@ -24,3 +24,4 @@
 - [Chapter 3](?file=03-光与影之舞/03-Chapter 3 "Chapter 3")
 - [Chapter 4](?file=03-光与影之舞/04-Chapter 4 "Chapter 4")
 - [Chapter 5](?file=03-光与影之舞/05-Chapter 5 "Chapter 5")
+- [Chapter 6](?file=03-光与影之舞/06-Chapter 6 "Chapter 6")

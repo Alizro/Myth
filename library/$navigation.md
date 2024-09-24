@@ -36,3 +36,4 @@
 ##### Alice in Wonderland
 - [Chapter 1](?file=04-Alice in Wonderland/01-Chapter 1 "Chapter 1")
 - [Chapter 2](?file=04-Alice in Wonderland/02-Chapter 2 "Chapter 2")
+- [Chapter 3](?file=04-Alice in Wonderland/03-Chapter 3 "Chapter 3")

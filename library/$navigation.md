@@ -38,3 +38,4 @@
 - [Chapter 2](?file=04-Alice in Wonderland/02-Chapter 2 "Chapter 2")
 - [Chapter 3](?file=04-Alice in Wonderland/03-Chapter 3 "Chapter 3")
 - [Chapter 4](?file=04-Alice in Wonderland/04-Chapter 4 "Chapter 4")
+- [Chapter 5](?file=04-Alice in Wonderland/05-Chapter 5 "Chapter 5")

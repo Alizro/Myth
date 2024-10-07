@@ -41,3 +41,4 @@
 - [Chapter 5](?file=04-Alice in Wonderland/05-Chapter 5 "Chapter 5")
 - [Chapter 6](?file=04-Alice in Wonderland/06-Chapter 6 "Chapter 6")
 - [Chapter 7](?file=04-Alice in Wonderland/07-Chapter 7 "Chapter 7")
+- [Chapter 8](?file=04-Alice in Wonderland/08-Chapter 8 "Chapter 8")

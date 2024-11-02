@@ -407,6 +407,7 @@ $(function () {
         testing && testing.crawlContent();
         $main.trigger('scrollbar');
         $mainInner.scrollTop(0);  //返回顶部
+        $(window).scrollTop(0);
         //更新history记录
         if (!withOutPushState && HISTORY_STATE) {
             var path2 = path.replace(/&/g, '%26');  //对带 & 符号的地址特殊处理
@@ -675,5 +676,3 @@ $(function () {
     };
 
 });
-
-

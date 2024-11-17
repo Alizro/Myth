@@ -53,3 +53,4 @@
 - [Chapter 1](?file=05-游园惊梦/01-Chapter 1 "Chapter 1")
 - [Chapter 2](?file=05-游园惊梦/02-Chapter 2 "Chapter 2")
 - [Chapter 3](?file=05-游园惊梦/03-Chapter 3 "Chapter 3")
+- [Chapter 4](?file=05-游园惊梦/04-Chapter 4 "Chapter 4")

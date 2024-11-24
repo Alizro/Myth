@@ -58,3 +58,4 @@
 - [Chapter 6](?file=05-游园惊梦/06-Chapter 6 "Chapter 6")
 - [Chapter 7](?file=05-游园惊梦/07-Chapter 7 "Chapter 7")
 - [Chapter 8](?file=05-游园惊梦/08-Chapter 8 "Chapter 8")
+- [Chapter 9](?file=05-游园惊梦/09-Chapter 9 "Chapter 9")

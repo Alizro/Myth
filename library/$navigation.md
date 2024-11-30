@@ -73,3 +73,4 @@
 
 ##### 往事书
 - [Chapter 1](?file=06-往事书/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=06-往事书/02-Chapter 2 "Chapter 2")

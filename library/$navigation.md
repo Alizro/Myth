@@ -79,3 +79,4 @@
 - [Chapter 5](?file=06-往事书/05-Chapter 5 "Chapter 5")
 - [Chapter 6](?file=06-往事书/06-Chapter 6 "Chapter 6")
 - [Chapter 7](?file=06-往事书/07-Chapter 7 "Chapter 7")
+- [Chapter 8](?file=06-往事书/08-Chapter 8 "Chapter 8")

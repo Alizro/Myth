@@ -84,3 +84,4 @@
 - [Chapter 10](?file=06-往事书/10-Chapter 10 "Chapter 10")
 - [Chapter 11](?file=06-往事书/11-Chapter 11 "Chapter 11")
 - [Chapter 12](?file=06-往事书/12-Chapter 12 "Chapter 12")
+- [Chapter 13](?file=06-往事书/13-Chapter 13 "Chapter 13")

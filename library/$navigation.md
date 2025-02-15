@@ -17,6 +17,7 @@
 - [Chapter 10](?file=02-镜中沙/10-Chapter 10 "Chapter 10")
 - [Chapter 11](?file=02-镜中沙/11-Chapter 11 "Chapter 11")
 - [Chapter 12](?file=02-镜中沙/12-Chapter 12 "Chapter 12")
+- [Chapter 13](?file=02-镜中沙/13-Chapter 13 "Chapter 13")
 
 ##### 光与影之舞
 - [Chapter 1](?file=03-光与影之舞/01-Chapter 1 "Chapter 1")

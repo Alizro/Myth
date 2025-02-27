@@ -101,3 +101,4 @@
 - [Chapter 4](?file=07-审判之眼/04-Chapter 4 "Chapter 4")
 - [Chapter 5](?file=07-审判之眼/05-Chapter 5 "Chapter 5")
 - [Chapter 6](?file=07-审判之眼/06-Chapter 6 "Chapter 6")
+- [Chapter 7](?file=07-审判之眼/07-Chapter 7 "Chapter 7")

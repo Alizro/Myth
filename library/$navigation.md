@@ -116,3 +116,4 @@
 - [Chapter 5](?file=08-尘土仍归于地/05-Chapter 5 "Chapter 5")
 - [Chapter 6](?file=08-尘土仍归于地/06-Chapter 6 "Chapter 6")
 - [Chapter 7](?file=08-尘土仍归于地/07-Chapter 7 "Chapter 7")
+- [Chapter 8](?file=08-尘土仍归于地/08-Chapter 8 "Chapter 8")

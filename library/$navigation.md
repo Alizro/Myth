@@ -131,3 +131,4 @@
 ##### 镜难圆
 - [Chapter 1](?file=09-镜难圆/01-Chapter 1 "Chapter 1")
 - [Chapter 2](?file=09-镜难圆/02-Chapter 2 "Chapter 2")
+- [Chapter 3](?file=09-镜难圆/03-Chapter 3 "Chapter 3")

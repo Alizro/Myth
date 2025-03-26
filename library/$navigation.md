@@ -141,3 +141,4 @@
 - [Chapter 10](?file=09-镜难圆/10-Chapter 10 "Chapter 10")
 - [Chapter 11](?file=09-镜难圆/11-Chapter 11 "Chapter 11")
 - [Chapter 12](?file=09-镜难圆/12-Chapter 12 "Chapter 12")
+- [Chapter 13](?file=09-镜难圆/13-Chapter 13 "Chapter 13")

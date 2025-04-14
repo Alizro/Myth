@@ -152,3 +152,4 @@
 
 ##### 无属无终
 - [Chapter 1](?file=10-无属无终/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=10-无属无终/02-Chapter 2 "Chapter 2")

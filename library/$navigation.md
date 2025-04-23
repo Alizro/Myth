@@ -156,3 +156,4 @@
 - [Chapter 3](?file=10-无属无终/03-Chapter 3 "Chapter 3")
 - [Chapter 4](?file=10-无属无终/04-Chapter 4 "Chapter 4")
 - [Chapter 5](?file=10-无属无终/05-Chapter 5 "Chapter 5")
+- [Chapter 6](?file=10-无属无终/06-Chapter 6 "Chapter 6")

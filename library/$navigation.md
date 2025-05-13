@@ -174,3 +174,4 @@
 - [Chapter 21](?file=10-无属无终/21-Chapter 21 "Chapter 21")
 - [Chapter 22](?file=10-无属无终/22-Chapter 22 "Chapter 22")
 - [Chapter 23](?file=10-无属无终/23-Chapter 23 "Chapter 23")
+- [Chapter 24](?file=10-无属无终/24-Chapter 24 "Chapter 24")

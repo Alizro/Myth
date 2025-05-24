@@ -176,3 +176,6 @@
 - [Chapter 23](?file=10-无属无终/23-Chapter 23 "Chapter 23")
 - [Chapter 24](?file=10-无属无终/24-Chapter 24 "Chapter 24")
 - [Chapter 25](?file=10-无属无终/25-Chapter 25 "Chapter 25")
+
+##### 失乐园
+- [Chapter 1](?file=11-失乐园/01-Chapter 1 "Chapter 1")

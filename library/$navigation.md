@@ -184,3 +184,4 @@
 - [Chapter 4](?file=11-失乐园/04-Chapter 4 "Chapter 4")
 - [Chapter 5](?file=11-失乐园/05-Chapter 5 "Chapter 5")
 - [Chapter 6](?file=11-失乐园/06-Chapter 6 "Chapter 6")
+- [Chapter 7](?file=11-失乐园/07-Chapter 7 "Chapter 7")

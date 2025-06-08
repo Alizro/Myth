@@ -195,3 +195,4 @@
 - [Chapter 15](?file=11-失乐园/15-Chapter 15 "Chapter 15")
 - [Chapter 16](?file=11-失乐园/16-Chapter 16 "Chapter 16")
 - [Chapter 17](?file=11-失乐园/17-Chapter 17 "Chapter 17")
+- [Chapter 18](?file=11-失乐园/18-Chapter 18 "Chapter 18")

@@ -201,3 +201,6 @@
 - [Chapter 21](?file=11-失乐园/21-Chapter 21 "Chapter 21")
 - [Chapter 22](?file=11-失乐园/22-Chapter 22 "Chapter 22")
 - [Chapter 23](?file=11-失乐园/23-Chapter 23 "Chapter 23")
+
+##### 逾越之羊
+- [Chapter 1](?file=12-逾越之羊/01-Chapter 1 "Chapter 1")

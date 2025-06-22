@@ -4,20 +4,20 @@
 ##### 序幕
 - [序幕](?file=01-序幕/01-序幕 "序幕")
 
-##### 镜中沙
-- [Chapter 1](?file=02-镜中沙/01-Chapter 1 "Chapter 1")
-- [Chapter 2](?file=02-镜中沙/02-Chapter 2 "Chapter 2")
-- [Chapter 3](?file=02-镜中沙/03-Chapter 3 "Chapter 3")
-- [Chapter 4](?file=02-镜中沙/04-Chapter 4 "Chapter 4")
-- [Chapter 5](?file=02-镜中沙/05-Chapter 5 "Chapter 5")
-- [Chapter 6](?file=02-镜中沙/06-Chapter 6 "Chapter 6")
-- [Chapter 7](?file=02-镜中沙/07-Chapter 7 "Chapter 7")
-- [Chapter 8](?file=02-镜中沙/08-Chapter 8 "Chapter 8")
-- [Chapter 9](?file=02-镜中沙/09-Chapter 9 "Chapter 9")
-- [Chapter 10](?file=02-镜中沙/10-Chapter 10 "Chapter 10")
-- [Chapter 11](?file=02-镜中沙/11-Chapter 11 "Chapter 11")
-- [Chapter 12](?file=02-镜中沙/12-Chapter 12 "Chapter 12")
-- [Chapter 13](?file=02-镜中沙/13-Chapter 13 "Chapter 13")
+##### 镜中城
+- [Chapter 1](?file=02-镜中城/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=02-镜中城/02-Chapter 2 "Chapter 2")
+- [Chapter 3](?file=02-镜中城/03-Chapter 3 "Chapter 3")
+- [Chapter 4](?file=02-镜中城/04-Chapter 4 "Chapter 4")
+- [Chapter 5](?file=02-镜中城/05-Chapter 5 "Chapter 5")
+- [Chapter 6](?file=02-镜中城/06-Chapter 6 "Chapter 6")
+- [Chapter 7](?file=02-镜中城/07-Chapter 7 "Chapter 7")
+- [Chapter 8](?file=02-镜中城/08-Chapter 8 "Chapter 8")
+- [Chapter 9](?file=02-镜中城/09-Chapter 9 "Chapter 9")
+- [Chapter 10](?file=02-镜中城/10-Chapter 10 "Chapter 10")
+- [Chapter 11](?file=02-镜中城/11-Chapter 11 "Chapter 11")
+- [Chapter 12](?file=02-镜中城/12-Chapter 12 "Chapter 12")
+- [Chapter 13](?file=02-镜中城/13-Chapter 13 "Chapter 13")
 
 ##### 光与影之舞
 - [Chapter 1](?file=03-光与影之舞/01-Chapter 1 "Chapter 1")

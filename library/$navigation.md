@@ -26,6 +26,7 @@
 - [Chapter 19](?file=02-镜中城/19-Chapter 19 "Chapter 19")
 - [Chapter 20](?file=02-镜中城/20-Chapter 20 "Chapter 20")
 - [Chapter 21](?file=02-镜中城/21-Chapter 21 "Chapter 21")
+- [Chapter 22](?file=02-镜中城/22-Chapter 22 "Chapter 22")
 
 ##### 光与影之舞
 - [Chapter 1](?file=03-光与影之舞/01-Chapter 1 "Chapter 1")

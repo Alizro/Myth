@@ -46,6 +46,8 @@
 - [Chapter 14](?file=03-光与影之舞/14-Chapter 14 "Chapter 14")
 - [Chapter 15](?file=03-光与影之舞/15-Chapter 15 "Chapter 15")
 - [Chapter 16](?file=03-光与影之舞/16-Chapter 16 "Chapter 16")
+- [Chapter 17](?file=03-光与影之舞/17-Chapter 17 "Chapter 17")
+- [Chapter 18](?file=03-光与影之舞/18-Chapter 18 "Chapter 18")
 
 ##### Alice in Wonderland
 - [Chapter 1](?file=04-Alice in Wonderland/01-Chapter 1 "Chapter 1")

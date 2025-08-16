@@ -97,6 +97,7 @@
 - [Chapter 20](?file=05-游园惊梦/20-Chapter 20 "Chapter 20")
 - [Chapter 21](?file=05-游园惊梦/21-Chapter 21 "Chapter 21")
 - [Chapter 22](?file=05-游园惊梦/22-Chapter 22 "Chapter 22")
+- [Chapter 23](?file=05-游园惊梦/23-Chapter 23 "Chapter 23")
 
 ##### 往事书
 - [Chapter 1](?file=06-往事书/01-Chapter 1 "Chapter 1")

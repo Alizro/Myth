@@ -142,6 +142,8 @@
 - [Chapter 17](?file=07-审判之眼/17-Chapter 17 "Chapter 17")
 - [Chapter 18](?file=07-审判之眼/18-Chapter 18 "Chapter 18")
 - [Chapter 19](?file=07-审判之眼/19-Chapter 19 "Chapter 19")
+- [Chapter 20](?file=07-审判之眼/20-Chapter 20 "Chapter 20")
+- [Chapter 21](?file=07-审判之眼/21-Chapter 21 "Chapter 21")
 
 ##### 尘土仍归于地
 - [Chapter 1](?file=08-尘土仍归于地/01-Chapter 1 "Chapter 1")

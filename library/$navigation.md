@@ -263,3 +263,6 @@
 - [Chapter 17](?file=12-拉撒路/17-Chapter 17 "Chapter 17")
 - [Chapter 18](?file=12-拉撒路/18-Chapter 18 "Chapter 18")
 - [Chapter 19](?file=12-拉撒路/19-Chapter 19 "Chapter 19")
+
+##### 逾越羔羊
+- [Chapter 1](?file=13-逾越羔羊/01-Chapter 1 "Chapter 1")

@@ -266,3 +266,4 @@
 
 ##### 逾越羔羊
 - [Chapter 1](?file=13-逾越羔羊/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=13-逾越羔羊/02-Chapter 2 "Chapter 2")

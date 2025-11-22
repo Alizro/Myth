@@ -73,6 +73,7 @@
 - [Chapter 19](?file=04-Alice in Wonderland/19-Chapter 19 "Chapter 19")
 - [Chapter 20](?file=04-Alice in Wonderland/20-Chapter 20 "Chapter 20")
 - [Chapter 21](?file=04-Alice in Wonderland/21-Chapter 21 "Chapter 21")
+- [Chapter 22](?file=04-Alice in Wonderland/22-Chapter 22 "Chapter 22")
 
 ##### 游园惊梦
 - [Chapter 1](?file=05-游园惊梦/01-Chapter 1 "Chapter 1")

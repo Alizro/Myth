@@ -273,3 +273,4 @@
 - [Chapter 5](?file=13-逾越羔羊/05-Chapter 5 "Chapter 5")
 - [Chapter 6](?file=13-逾越羔羊/06-Chapter 6 "Chapter 6")
 - [Chapter 7](?file=13-逾越羔羊/07-Chapter 7 "Chapter 7")
+- [Chapter 8](?file=13-逾越羔羊/08-Chapter 8 "Chapter 8")

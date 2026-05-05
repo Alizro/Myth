@@ -292,3 +292,6 @@
 - [Chapter 23](?file=13-逾越羔羊/23-Chapter 23 "Chapter 23")
 - [Chapter 24](?file=13-逾越羔羊/24-Chapter 24 "Chapter 24")
 - [Chapter 25](?file=13-逾越羔羊/25-Chapter 25 "Chapter 25")
+
+##### 失乐园
+- [Chapter 1](?file=14-失乐园/01-Chapter 1 "Chapter 1")

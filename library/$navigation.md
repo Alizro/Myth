@@ -313,3 +313,6 @@
 - [Chapter 17](?file=14-失乐园/17-Chapter 17 "Chapter 17")
 - [Chapter 18](?file=14-失乐园/18-Chapter 18 "Chapter 18")
 - [Chapter 19](?file=14-失乐园/19-Chapter 19 "Chapter 19")
+
+##### 冠以荆棘
+- [Chapter 1](?file=15-冠以荆棘/01-Chapter 1 "Chapter 1")

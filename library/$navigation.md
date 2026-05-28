@@ -316,3 +316,4 @@
 
 ##### 冠以荆棘
 - [Chapter 1](?file=15-冠以荆棘/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=15-冠以荆棘/02-Chapter 2 "Chapter 2")

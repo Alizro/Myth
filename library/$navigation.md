@@ -320,3 +320,4 @@
 - [Chapter 3](?file=15-冠以荆棘/03-Chapter 3 "Chapter 3")
 - [Chapter 4](?file=15-冠以荆棘/04-Chapter 4 "Chapter 4")
 - [Chapter 5](?file=15-冠以荆棘/05-Chapter 5 "Chapter 5")
+- [Chapter 6](?file=15-冠以荆棘/06-Chapter 6 "Chapter 6")

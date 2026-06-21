@@ -334,3 +334,4 @@
 - [Chapter 17](?file=15-冠以荆棘/17-Chapter 17 "Chapter 17")
 - [Chapter 18](?file=15-冠以荆棘/18-Chapter 18 "Chapter 18")
 - [Chapter 19](?file=15-冠以荆棘/19-Chapter 19 "Chapter 19")
+- [Chapter 20](?file=15-冠以荆棘/20-Chapter 20 "Chapter 20")

@@ -341,3 +341,4 @@
 
 ##### 坠月之誓
 - [Chapter 1](?file=16-坠月之誓/01-Chapter 1 "Chapter 1")
+- [Chapter 2](?file=16-坠月之誓/02-Chapter 2 "Chapter 2")
